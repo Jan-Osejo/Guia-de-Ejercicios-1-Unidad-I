@@ -1,4 +1,5 @@
 ﻿using Guía_1.VariablesAndOperators;
+using Guía1.ControlStructures;
 using Guía1.VariablesAndOperators;
 
 //Ejercicio01 ejercicio = new Ejercicio01();
@@ -29,5 +30,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio09 ejercicio09 = new Ejercicio09();
 //ejercicio09.CalcularSalarioSemanal();
 
-Ejercicio10 ejercicio10 = new Ejercicio10();
-ejercicio10.CalcularPréstamo();
+//Ejercicio10 ejercicio10 = new Ejercicio10();
+//ejercicio10.CalcularPréstamo();
+
+//Ejercicio11 ejercicio11 = new Ejercicio11();
+//ejercicio11.EvaluarNumero();
