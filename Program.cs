@@ -20,5 +20,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio06 ejercicio06 = new Ejercicio06();
 //ejercicio06.SumarDígitos();
 
-Ejercicio07 ejercicio07 = new Ejercicio07();
-ejercicio07.CalcularTiempoTranscurrido();
+//Ejercicio07 ejercicio07 = new Ejercicio07();
+//ejercicio07.CalcularTiempoTranscurrido();
+
+Ejercicio08 ejercicio08 = new Ejercicio08();
+ejercicio08.DesglosarBilletes();
