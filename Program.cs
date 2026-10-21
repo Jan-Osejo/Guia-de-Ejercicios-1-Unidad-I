@@ -35,3 +35,6 @@ using Guía1.VariablesAndOperators;
 
 //Ejercicio11 ejercicio11 = new Ejercicio11();
 //ejercicio11.EvaluarNumero();
+
+Ejercicio12 ejercicio12 = new Ejercicio12();
+ejercicio12.MayorYMenor();
