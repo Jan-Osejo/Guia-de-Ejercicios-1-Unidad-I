@@ -23,5 +23,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio07 ejercicio07 = new Ejercicio07();
 //ejercicio07.CalcularTiempoTranscurrido();
 
-Ejercicio08 ejercicio08 = new Ejercicio08();
-ejercicio08.DesglosarBilletes();
+//Ejercicio08 ejercicio08 = new Ejercicio08();
+//ejercicio08.DesglosarBilletes();
+
+Ejercicio09 ejercicio09 = new Ejercicio09();
+ejercicio09.CalcularSalarioSemanal();
