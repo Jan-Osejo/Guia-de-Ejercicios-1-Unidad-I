@@ -26,5 +26,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio08 ejercicio08 = new Ejercicio08();
 //ejercicio08.DesglosarBilletes();
 
-Ejercicio09 ejercicio09 = new Ejercicio09();
-ejercicio09.CalcularSalarioSemanal();
+//Ejercicio09 ejercicio09 = new Ejercicio09();
+//ejercicio09.CalcularSalarioSemanal();
+
+Ejercicio10 ejercicio10 = new Ejercicio10();
+ejercicio10.CalcularPréstamo();
