@@ -97,5 +97,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio31 ejercicio31 = new Ejercicio31();
 //ejercicio31.MCDyMCM();
 
-Ejercicio32 ejercicio32 = new Ejercicio32();
-ejercicio32.PrimosEnRango();
+//Ejercicio32 ejercicio32 = new Ejercicio32();
+//ejercicio32.PrimosEnRango();
+
+Ejercicio33 ejercicio33 = new Ejercicio33();
+ejercicio33.JuegoAdivinanza();
