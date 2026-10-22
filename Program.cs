@@ -88,7 +88,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio28 ejercicio28 = new Ejercicio28();
 //ejercicio28.DecimalABinario();
 
-Ejercicio29 ejercicio29 = new Ejercicio29();
-ejercicio29.SerieFibonacci();
+//Ejercicio29 ejercicio29 = new Ejercicio29();
+//ejercicio29.SerieFibonacci(); 
 
-
+Ejercicio30 ejercicio30 = new Ejercicio30();
+ejercicio30.FactorialYCombinaciones();
