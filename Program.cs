@@ -82,5 +82,10 @@ using Guía1.VariablesAndOperators;
 //Ejercicio26 ejercicio26 = new Ejercicio26();
 //ejercicio26.CalcularPotencia();
 
-Ejercicio27 ejercicio27 = new Ejercicio27();
-ejercicio27.InvertirNumero();
+//Ejercicio27 ejercicio27 = new Ejercicio27();
+//ejercicio27.InvertirNumero();
+
+Ejercicio28 ejercicio28 = new Ejercicio28();
+ejercicio28.DecimalABinario();
+
+
