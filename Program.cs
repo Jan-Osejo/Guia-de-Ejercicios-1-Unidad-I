@@ -70,5 +70,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio22 ejercicio22 = new Ejercicio22();
 //ejercicio22.SimularCajero();
 
-Ejercicio23 ejercicio23 = new Ejercicio23();
-ejercicio23.MultiplicationTable();
+//Ejercicio23 ejercicio23 = new Ejercicio23();
+//ejercicio23.MultiplicationTable();
+
+Ejercicio24 ejercicio24 = new Ejercicio24();
+ejercicio24.SumaParesImpares();
