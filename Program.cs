@@ -1,5 +1,6 @@
 ﻿using Guía_1.VariablesAndOperators;
 using Guía1.ControlStructures;
+using Guía1.Loops;
 using Guía1.VariablesAndOperators;
 
 //Ejercicio01 ejercicio = new Ejercicio01();
@@ -66,5 +67,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio21 ejercicio21 = new Ejercicio21();
 //ejercicio21.ValidarFecha();
 
-Ejercicio22 ejercicio22 = new Ejercicio22();
-ejercicio22.SimularCajero();
+//Ejercicio22 ejercicio22 = new Ejercicio22();
+//ejercicio22.SimularCajero();
+
+Ejercicio23 ejercicio23 = new Ejercicio23();
+ejercicio23.MultiplicationTable();
