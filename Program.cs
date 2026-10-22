@@ -85,7 +85,10 @@ using Guía1.VariablesAndOperators;
 //Ejercicio27 ejercicio27 = new Ejercicio27();
 //ejercicio27.InvertirNumero();
 
-Ejercicio28 ejercicio28 = new Ejercicio28();
-ejercicio28.DecimalABinario();
+//Ejercicio28 ejercicio28 = new Ejercicio28();
+//ejercicio28.DecimalABinario();
+
+Ejercicio29 ejercicio29 = new Ejercicio29();
+ejercicio29.SerieFibonacci();
 
 
