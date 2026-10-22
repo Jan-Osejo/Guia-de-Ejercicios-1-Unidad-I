@@ -76,5 +76,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio24 ejercicio24 = new Ejercicio24();
 //ejercicio24.SumaParesImpares();
 
-Ejercicio25 ejercicio25 = new Ejercicio25();
-ejercicio25.PromedioCentinela();
+//Ejercicio25 ejercicio25 = new Ejercicio25();
+//ejercicio25.PromedioCentinela();
+
+Ejercicio26 ejercicio26 = new Ejercicio26();
+ejercicio26.CalcularPotencia();
