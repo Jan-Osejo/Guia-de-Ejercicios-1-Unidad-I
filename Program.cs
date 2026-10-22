@@ -63,5 +63,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio20 ejercicio20 = new Ejercicio20();
 //ejercicio20.ComprobarAñoBisiesto();
 
-Ejercicio21 ejercicio21 = new Ejercicio21();
-ejercicio21.ValidarFecha();
+//Ejercicio21 ejercicio21 = new Ejercicio21();
+//ejercicio21.ValidarFecha();
+
+Ejercicio22 ejercicio22 = new Ejercicio22();
+ejercicio22.SimularCajero();
