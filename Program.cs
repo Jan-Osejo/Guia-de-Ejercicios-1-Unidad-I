@@ -94,5 +94,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio30 ejercicio30 = new Ejercicio30();
 //ejercicio30.FactorialYCombinaciones();
 
-Ejercicio31 ejercicio31 = new Ejercicio31();
-ejercicio31.MCDyMCM();
+//Ejercicio31 ejercicio31 = new Ejercicio31();
+//ejercicio31.MCDyMCM();
+
+Ejercicio32 ejercicio32 = new Ejercicio32();
+ejercicio32.PrimosEnRango();
