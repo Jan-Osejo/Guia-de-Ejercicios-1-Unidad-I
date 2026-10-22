@@ -48,8 +48,11 @@ using Guía1.VariablesAndOperators;
 //Ejercicio15 ejercicio15 = new Ejercicio15();
 //ejercicio15.VocalOConsonante();
 
-Ejercicio16 ejercicio16 = new Ejercicio16();
-ejercicio16.GradingSystem();
+//Ejercicio16 ejercicio16 = new Ejercicio16();
+//ejercicio16.GradingSystem();
+
+Ejercicio17 ejercicio17 = new Ejercicio17();
+ejercicio17.CalcularDescuento();
 
 //Ejercicio20 ejercicio20 = new Ejercicio20();
 //ejercicio20.ComprobarAñoBisiesto();
