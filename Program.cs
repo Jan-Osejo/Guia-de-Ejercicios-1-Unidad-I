@@ -91,5 +91,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio29 ejercicio29 = new Ejercicio29();
 //ejercicio29.SerieFibonacci(); 
 
-Ejercicio30 ejercicio30 = new Ejercicio30();
-ejercicio30.FactorialYCombinaciones();
+//Ejercicio30 ejercicio30 = new Ejercicio30();
+//ejercicio30.FactorialYCombinaciones();
+
+Ejercicio31 ejercicio31 = new Ejercicio31();
+ejercicio31.MCDyMCM();
