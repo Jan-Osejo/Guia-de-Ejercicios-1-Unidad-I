@@ -42,5 +42,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio13 ejercicio13 = new Ejercicio13();
 //ejercicio13.WeekDay();
 
-Ejercicio14 ejercicio14 = new Ejercicio14();
-ejercicio14.CalculadoraBásica();
+//Ejercicio14 ejercicio14 = new Ejercicio14();
+//ejercicio14.CalculadoraBásica()
+
+Ejercicio15 ejercicio15 = new Ejercicio15();
+ejercicio15.ComprobarAñoBisiesto();
