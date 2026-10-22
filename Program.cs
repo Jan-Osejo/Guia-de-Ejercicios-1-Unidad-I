@@ -57,9 +57,11 @@ using Guía1.VariablesAndOperators;
 //Ejercicio18 ejercicio18 = new Ejercicio18();
 //ejercicio18.CalcularTarifa();
 
-Ejercicio19 ejercicio19 = new Ejercicio19();
-ejercicio19.ClasificarTriangulo();
+//Ejercicio19 ejercicio19 = new Ejercicio19();
+//ejercicio19.ClasificarTriangulo();
 
 //Ejercicio20 ejercicio20 = new Ejercicio20();
 //ejercicio20.ComprobarAñoBisiesto();
 
+Ejercicio21 ejercicio21 = new Ejercicio21();
+ejercicio21.ValidarFecha();
