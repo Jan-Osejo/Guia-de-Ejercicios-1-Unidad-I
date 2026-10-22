@@ -31,7 +31,7 @@ namespace Guía1.ControlStructures
             {
                 mayor = num3;
             }
-
+            
             // Sacar el # menor
             if (num1 <= num2 && num1 <= num3)
             {
