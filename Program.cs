@@ -73,5 +73,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio23 ejercicio23 = new Ejercicio23();
 //ejercicio23.MultiplicationTable();
 
-Ejercicio24 ejercicio24 = new Ejercicio24();
-ejercicio24.SumaParesImpares();
+//Ejercicio24 ejercicio24 = new Ejercicio24();
+//ejercicio24.SumaParesImpares();
+
+Ejercicio25 ejercicio25 = new Ejercicio25();
+ejercicio25.PromedioCentinela();
