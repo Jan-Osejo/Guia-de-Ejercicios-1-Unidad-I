@@ -51,8 +51,11 @@ using Guía1.VariablesAndOperators;
 //Ejercicio16 ejercicio16 = new Ejercicio16();
 //ejercicio16.GradingSystem();
 
-Ejercicio17 ejercicio17 = new Ejercicio17();
-ejercicio17.CalcularDescuento();
+//Ejercicio17 ejercicio17 = new Ejercicio17();
+//ejercicio17.CalcularDescuento();
+
+Ejercicio18 ejercicio18 = new Ejercicio18();
+ejercicio18.CalcularTarifa();
 
 //Ejercicio20 ejercicio20 = new Ejercicio20();
 //ejercicio20.ComprobarAñoBisiesto();
