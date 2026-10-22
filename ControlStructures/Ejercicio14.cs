@@ -14,7 +14,6 @@ namespace Guía1.ControlStructures
             Console.Write("Ingrese el operador (+, -, *, /): ");
             char operador = char.TryParse(Console.ReadLine(), out char op) ? op : ' ';
 
-            Console.WriteLine("\n--- Resultados ---");
             double resultado = 0;
 
             // Evaluación 
