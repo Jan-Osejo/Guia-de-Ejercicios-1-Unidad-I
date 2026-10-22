@@ -2,29 +2,33 @@ namespace Guía1.ControlStructures
 {
     public class Ejercicio15
     {
-        public void ComprobarAñoBisiesto()
+        public void VocalOConsonante()
         {
+            Console.WriteLine("Ingrese una letra: ");
+            
+            char letra = char.TryParse(Console.ReadLine(), out char c) ? c : ' ';
 
-            // Ingreso de datos
-            Console.Write("Ingrese un año: ");
-            int año = int.TryParse(Console.ReadLine(), out int nro) ? nro : 0;
-
-            // Evaluación
-            if (año > 0)
+            if (!char.IsLetter(letra))
             {
-                // Formula para años bisiestos
-                if ((año % 4 == 0 && año % 100 != 0) || (año % 400 == 0))
-                {
-                    Console.WriteLine($"El año {año} es bisiesto");
-                }
-                else
-                {
-                    Console.WriteLine($"El año {año} no es bisiesto");
-                }
+                Console.WriteLine("Ingrese una letra válida");
+                return; // Interrumpe la ejecución del programa
             }
-            else
+
+            char letraMinúscula = char.ToLower(letra);
+
+            // Evaluación con switch
+            switch(letraMinúscula)
             {
-                Console.WriteLine("Ingrese un número válido.");
+                case 'a':
+                case 'e':
+                case 'i':
+                case 'o':
+                case 'u':
+                    Console.WriteLine($"La letra {letra} es una vocal");
+                    break;
+                default:
+                    Console.WriteLine($"La letra {letra} es una consonante");
+                    break;
             }
         }
     }

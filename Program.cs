@@ -46,4 +46,7 @@ using Guía1.VariablesAndOperators;
 //ejercicio14.CalculadoraBásica()
 
 Ejercicio15 ejercicio15 = new Ejercicio15();
-ejercicio15.ComprobarAñoBisiesto();
+ejercicio15.VocalOConsonante();
+
+//Ejercicio20 ejercicio20 = new Ejercicio20();
+//ejercicio20.ComprobarAñoBisiesto();
