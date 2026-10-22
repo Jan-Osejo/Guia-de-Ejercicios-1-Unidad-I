@@ -39,5 +39,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio12 ejercicio12 = new Ejercicio12();
 //ejercicio12.MayorYMenor();
 
-Ejercicio13 ejercicio13 = new Ejercicio13();
-ejercicio13.WeekDay();
+//Ejercicio13 ejercicio13 = new Ejercicio13();
+//ejercicio13.WeekDay();
+
+Ejercicio14 ejercicio14 = new Ejercicio14();
+ejercicio14.CalculadoraBásica();
