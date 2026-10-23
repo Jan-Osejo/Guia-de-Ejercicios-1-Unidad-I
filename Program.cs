@@ -113,5 +113,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio36 ejercicio36 = new Ejercicio36();
 //ejercicio36.CalculadoraConMenu();
 
-Ejercicio37 ejercicio37 = new Ejercicio37();
-ejercicio37.RegistroNúmeros();
+//Ejercicio37 ejercicio37 = new Ejercicio37();
+//ejercicio37.RegistroNúmeros();
+
+Ejercicio38 ejercicio38 = new Ejercicio38();
+ejercicio38.ArregloDeNombres();
