@@ -138,5 +138,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio44 ejercicio44 = new Ejercicio44();
 //ejercicio44.HistogramaCalificaciones();
 
-Ejercicio45 ejercicio45 = new Ejercicio45();
-ejercicio45.ListaTareas();
+//Ejercicio45 ejercicio45 = new Ejercicio45();
+//ejercicio45.ListaTareas();
+
+Ejercicio46 ejercicio46 = new Ejercicio46();
+ejercicio46.Ejecutar();
