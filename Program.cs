@@ -1,6 +1,7 @@
 ﻿using Guía_1.VariablesAndOperators;
 using Guía1.ControlStructures;
 using Guía1.Loops;
+using Guía1.One_DimensionalArrays;
 using Guía1.VariablesAndOperators;
 
 //Ejercicio01 ejercicio = new Ejercicio01();
@@ -109,5 +110,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio35 ejercicio35 = new Ejercicio35();
 //ejercicio35.MenuPatrones();
 
-Ejercicio36 ejercicio36 = new Ejercicio36();
-ejercicio36.CalculadoraConMenu();
+//Ejercicio36 ejercicio36 = new Ejercicio36();
+//ejercicio36.CalculadoraConMenu();
+
+Ejercicio37 ejercicio37 = new Ejercicio37();
+ejercicio37.RegistroNúmeros();
