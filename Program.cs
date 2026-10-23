@@ -106,5 +106,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio34 ejercicio34 = new Ejercicio34();
 //ejercicio34.ValidarContraseña();
 
-Ejercicio35 ejercicio35 = new Ejercicio35();
-ejercicio35.MenuPatrones();
+//Ejercicio35 ejercicio35 = new Ejercicio35();
+//ejercicio35.MenuPatrones();
+
+Ejercicio36 ejercicio36 = new Ejercicio36();
+ejercicio36.CalculadoraConMenu();
