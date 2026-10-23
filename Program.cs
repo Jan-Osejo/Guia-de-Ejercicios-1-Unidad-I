@@ -1,5 +1,6 @@
 ﻿using Guía_1.VariablesAndOperators;
 using Guía1.ControlStructures;
+using Guía1.Lists;
 using Guía1.Loops;
 using Guía1.One_DimensionalArrays;
 using Guía1.VariablesAndOperators;
@@ -134,5 +135,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio43 ejercicio43 = new Ejercicio43();
 //ejercicio43.RotaciónArreglo();
 
-Ejercicio44 ejercicio44 = new Ejercicio44();
-ejercicio44.HistogramaCalificaciones();
+//Ejercicio44 ejercicio44 = new Ejercicio44();
+//ejercicio44.HistogramaCalificaciones();
+
+Ejercicio45 ejercicio45 = new Ejercicio45();
+ejercicio45.ListaTareas();
