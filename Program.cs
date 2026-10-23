@@ -131,5 +131,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio42 ejercicio42 = new Ejercicio42();
 //ejercicio42.BúsquedaYOrdenamiento();
 
-Ejercicio43 ejercicio43 = new Ejercicio43();
-ejercicio43.RotaciónArreglo();
+//Ejercicio43 ejercicio43 = new Ejercicio43();
+//ejercicio43.RotaciónArreglo();
+
+Ejercicio44 ejercicio44 = new Ejercicio44();
+ejercicio44.HistogramaCalificaciones();
