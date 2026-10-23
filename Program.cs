@@ -122,5 +122,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio39 ejercicio39 = new Ejercicio39();
 //ejercicio39.EstadísticasDeCalificaciones();
 
-Ejercicio40 ejercicio40 = new Ejercicio40();
-ejercicio40.FrecuenciaElementos();
+//Ejercicio40 ejercicio40 = new Ejercicio40();
+//ejercicio40.FrecuenciaElementos();
+
+Ejercicio41 ejercicio41 = new Ejercicio41();
+ejercicio41.ArregloTemperaturas();
