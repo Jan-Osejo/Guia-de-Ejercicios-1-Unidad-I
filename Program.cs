@@ -144,5 +144,8 @@ using Guía1.VariablesAndOperators;
 //Ejercicio46 ejercicio46 = new Ejercicio46();
 //ejercicio46.Ejecutar();
 
-Ejercicio47 ejercicio47 = new Ejercicio47();
-ejercicio47.Ejecutar();
+//Ejercicio47 ejercicio47 = new Ejercicio47();
+//ejercicio47.Ejecutar();
+
+Ejercicio48 ejercicio48 = new Ejercicio48();
+ejercicio48.Ejecutar();
